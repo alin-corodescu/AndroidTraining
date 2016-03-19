@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirstApp</string>
+    <string name="login">Login</string>
+    <string name="Register">Register</string>
+    <string name="email">EMAIL</string>
+    <string name="pass">PASSWORD</string>
+    <string name="age">AGE</string>
+    <string name="dialog_title">Dialog</string>
+    <string name="dialog_message">Are you sure you want to log in?</string>
+</resources>
